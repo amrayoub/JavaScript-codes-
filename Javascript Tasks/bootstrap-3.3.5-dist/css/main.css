@@ -1,0 +1,23 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+    background-image: url("../../shutterstock-programming.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    color: #000000;
+    padding: 100px 0;
+}
+
+.starter-template {
+  padding: 5px 10px;
+  text-align: center;
+}
+
+#task1, #task2 {
+    height: 100px;
+    padding: 10px;
+}
